@@ -1,0 +1,3 @@
+# Install the CUDA-enabled torch wheel separately as described in README.md.
+numpy>=1.26,<3
+matplotlib>=3.8,<4
